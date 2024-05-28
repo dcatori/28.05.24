@@ -1,0 +1,35 @@
+Sistemas Operacionais:
+
+O sistema operacional é um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de arquivos a programas de terceiros. 
+
+Ele fornece uma interface entre o usuário e o computador, tornando sua utilização
+eficiente, simples, segura e rápida. 
+
+Um sistema operacional contém componentes divididos entre os para o usuário (como bibliotecas, programas e interface) e as instruções que compõem o seu núcleo (kernel).
+
+O kernel compõe a parte central do programa e responde por tarefas cruciais, como:
+
+Estabelecer a camada de abstração de baixo nível (linguagem de máquina) com o hardware;
+
+Gerenciar recursos como processador, RAM, sistemas de arquivos e dispositivos de entrada e saída (monitor, teclado, mouse, impressora, etc.);
+
+Gerenciar processos (execução) de programas;
+
+Gerenciar o uso de dispositivos, memória do sistema e chamadas dos programas, definindo quais têm prioridade.
+
+Exemplos de Sistemas Operacionais:
+
+Computador: Windows, Linux, macOS
+Android: Android, iOS
+
+
+
+
+
+Referências Bibliograficas:
+
+https://www.insper.edu.br/noticias/o-que-e-um-sistema-operacional-e-quais-sao-os-principais/
+
+https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/#:~:text=O%20sistema%20operacional%20%C3%A9%20um,o%20computador%20e%20o%20usu%C3%A1rio.
+
+https://www.techtudo.com.br/guia/2024/03/o-que-e-um-sistema-operacional-veja-tipos-e-exemplos-edsoftwares.ghtml
